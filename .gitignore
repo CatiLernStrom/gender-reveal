@@ -1,0 +1,4 @@
+# Lösungsdateien niemals veröffentlichen
+build/
+answers.json
+*.zip
